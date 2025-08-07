@@ -1,4 +1,3 @@
-# dataart_javascript_school_assignments
 # Event Timeline Viewer
 
 ## Stage 1: Basic Layout Setup
