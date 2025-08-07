@@ -5,8 +5,6 @@
 
 This project is designed to visualize chronological events using a vertical timeline interface.
 
-### Features in Stage 1:
-
 - A `<header>` with a logo and a theme toggle button (light/dark mode).
 - An empty `<nav>` for future filter options.
 - A `<section>` with `id="timeline"` to hold event markers.
